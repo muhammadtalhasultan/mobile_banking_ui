@@ -1,16 +1,15 @@
-# wallet_app
+# Flutter Mobile Banking Ui Kit 40+ Screens
 
-A new Flutter project.
+### Support App
 
-## Getting Started
+* ⭐️ Star the repo to show support. ⭐️
 
-This project is a starting point for a Flutter application.
+### 💻 Requirements
 
-A few resources to get you started if this is your first Flutter project:
+- Any Operating System (macOS, Linux, Windows)
+- Any IDE with Flutter SDK installed (Android Studio, VSCode, etc)
+- A little knowledge of Dart and Flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/talhasultan-dev/mobile_banking_ui/assets/31367048/5fb3397e-5356-4668-b8c6-44a624a4b19c)
+![image](https://github.com/talhasultan-dev/mobile_banking_ui/assets/31367048/1dc9c4f9-fe11-4ac3-b8c9-c44f70a1e1bc)
+![image](https://github.com/talhasultan-dev/mobile_banking_ui/assets/31367048/fd609d7f-7582-423e-9134-0f6c04c0467c)
